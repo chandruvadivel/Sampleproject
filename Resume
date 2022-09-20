@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="device-width, initial-scaled=1.0"
+        <title>Responsive Resume</title>
+        <link rel="stylesheet" href="C:\Users\Aathif\OneDrive\Desktop\Resume\style.css" type="text/css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" 
+        integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" 
+        crossorigin="anonymous">
+    </head>
+    <body>
+        <div class="container">
+            <div class="left-side">
+                <div class="profileText">
+                    <div class="imgBx">
+                        <img src="20I101.jpg">
+                    </div>
+                    <h2>Aathif B<br><span>Data Analyst</span></h2>
+                </div>
+                <div class="contactInfo">
+                    <h3 class="title">Contact Info</h3>
+                    <ul>
+                        <li>
+                            <span class="icon"><i class="fa fa-phone" aria-hidden="true"></i></span>
+                            <span class="text">+91 8870954579</span>
+                        </li>
+                        <li>
+                            <span class="icon"><i class="fa fa-calendar" aria-hidden="true"></i></span>
+                            <span class="text">October 7,2002</span>
+                        </li>
+                        <li>
+                            <span class="icon"><i class="fa fa-home" aria-hidden="true"></i></span>
+                            <span class="text">4/785,Teachers Colony Dharmapuri</span>
+                        </li>
+                        <li>
+                            <span class="icon"><i class="fa fa-envelope" aria-hidden="true"></i></span>
+                            <span class="text">aathif0710@gmail.com</span>
+                        </li>
+                        <li>
+                            <span class="icon"><i class="fa fa-linkedin" aria-hidden="true"></i></span>
+                            <span class="text">www.linkedin.com/Aathif</span>
+                        </li>
+                    </ul>
+                </div>
+
+
+                <div class="contactInfo education">
+                    <h3 class="title">Education</h3>
+                    <ul>
+                        <li>
+                            <h5>2020 - 2024</h5>
+                            <h4><b>Bachelor of Technology Artificial Intelligence and Data Science</b></h4>
+                            <h4>Karpagam College of Engineering</h4>
+                            <h6>CGPA - 8.96</h6>
+                        </li>
+                        <li>
+                            <h5>2019 - 2020</h5>
+                            <h4><b>Class XII</b></h4>
+                            <h4>Sri Vijay Vidyalaya Matric Higher Secondar School</h4>
+                            <h6>Percentage - 80.3%</h6>
+                        </li>
+                        <li>
+                            <h5>2017 - 2018</h5>
+                            <h4><b>Class X</b></h4>
+                            <h4>Sri Vijay Vidyalaya Matric Higher Secondar School</h4>
+                            <h6>Percentage - 96.4%</h6>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="contactInfo language">
+                    <h3 class="title">Languages</h3>
+                    <ul>
+                        <li>
+                            <span class="text">English</span>
+                            <div class="percent">
+                                <div style="width: 85%;"></div>
+                            </div>
+                        </li>
+                        <li>
+                            <span class="text">Tamil</span>
+                            <div class="percent">
+                                <div style="width: 90%;"></div>
+                            </div>
+                        </li>
+                        <li>
+                            <span class="text">Hindi</span>
+                            <div class="percent">
+                                <div style="width: 60%;"></div>
+                            </div>
+                        </li>
+                        <li>
+                            <span class="text">German</span>
+                            <div class="percent">
+                                <div style="width: 35%;"></div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="right-side">
+                <div class="about">
+                    <h2 class="title2">Objective</h2>
+                    <p>To be associated with a progressive organisation that 
+                       gives me scope to enrich my skills at congruent to a 
+                       global level ,to learn team dynamics and to work 
+                       towards the growth of the organisation.
+                    </p>
+                </div>
+                <div class="about">
+                    <h2 class="title2">Internships</h2>
+                    <h3>We & Data, Coimbatore</h3>
+                    <p>We & Data Company Provided on Internship which help to know how to work on platform called PowerBI which is used 
+                       Data Visualization. Through this Internship, I learnt how to visualize a Data Easily.
+                    </p>
+                </div>
+                
+                <div class="about skills">
+                    <h2 class="title2">Technical Skills</h2>
+                    <div class="box">
+                        <h4>Python</h4>
+                        <div class="percent">
+                        <div style="width: 85%;"></div>
+                    </div>
+                    <div class="box">
+                        <h4>C</h4>
+                        <div class="percent">
+                            <div style="width: 80%;"></div>
+                        </div>
+                    </div>
+                    <div class="box">
+                        <h4>Data Structure</h4>
+                        <div class="percent">
+                            <div style="width: 70%;"></div>
+                        </div>
+                    </div>
+                    <div class="box">
+                        <h4>R Programming</h4>
+                        <div class="percent">
+                            <div style="width: 80%;"></div>
+                        </div>
+                    </div>
+                    <div class="box">
+                        <h4>SQL</h4>
+                        <div class="percent">
+                            <div style="width: 70%;"></div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="Project">
+                    <h2 class="title2">Projects</h2>
+                    <ul>
+                        <li>
+                            <h3><b>Data Visualization on Heart Disease Dataset</b></h3>
+                            <p>I Completed an Internship on We&Data Where I created a dashboard on Heart Disease Dataset with 
+                                Data Visualization</p>
+                        </li>
+                        <li>
+                            <h3><b>Identification and Rendering of Human Faces in Videos</b></h3>
+                            <p>Smart India Hackathon 2022 is a initiative to provide students a platforms to solve some of the pressing 
+                                problems we face in our daily lives and thus inculate a culture of product innovation and a mindset of 
+                                problem solving. I Completed a project on Identification and Rendering of Human Faces.
+                            </p>
+                        </li>
+                        <li>
+                            <h3><b>Road Lane Line Detection</b></h3>
+                            <p>I completed a project on Detection of road lane line where automatic vechicles can easily detect the lane 
+                                on the road and follow the Traffic rules and can avoid Accidents.
+                            </p>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="about certificate">
+                    <h2 class="title2">Certificates</h2>
+                    <h3><b></b>Power BI</b></h3>
+                    <p>Certificate of Completion of Internship at WE & Data.</p>
+
+                    <h3><b></b>Data Science For Engineers</b></h3>
+                    <p>Certificate of Completion of course at NPTEL portel.</p>
+                </div>
+
+                <div class ="about declaration">
+                    <h2 class="title2">Declaration</h2>
+                    <p>I hereby declare that the information given above is true to the best of my knowledge. I will make it my earnest
+                        endeavour to discharge competently and carefully the duties you may be pleased to entrust me.
+                    </p>
+                </div>
+            </div>
+            </div>
+        </div>
+    </body>
+</html>
